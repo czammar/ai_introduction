@@ -21,5 +21,5 @@ pip install -r requirements.txt
 
 4. Instala los paquetes:
 ```
-python src
+python src/handtracker/main.py
 ```
