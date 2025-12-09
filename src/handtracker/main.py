@@ -93,10 +93,10 @@ def run_hand_tracking_on_webcam():
                         connection_drawing_spec=\
                             mp_drawing_styles.get_default_hand_connections_style(),
                     )
-            
+
             # f. Display the Result
             # cv2.flip(frame, 1) flips the image horizontally
-            # (mirror effect) 
+            # (mirror effect)
             # which is typical for webcam feeds and intuitive for
             # hand tracking.
             cv2.imshow(WINDOW_NAME, cv2.flip(frame, 1))
