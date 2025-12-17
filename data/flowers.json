@@ -1,0 +1,58 @@
+[
+  {
+    "plant_id": 1,
+    "common_name": "Rose",
+    "scientific_name": "Rosa",
+    "type": "Flowering Plant",
+    "sunlight": "Full Sun",
+    "watering_frequency_days": 3,
+    "soil_type": "Loamy",
+    "origin": "Asia",
+    "is_edible": false,
+    "color": "azul"
+  },
+  {
+    "plant_id": 2,
+    "common_name": "Basil",
+    "scientific_name": "Ocimum basilicum",
+    "type": "Herb",
+    "sunlight": "Full Sun",
+    "watering_frequency_days": 2,
+    "soil_type": "Well-drained",
+    "origin": "India",
+    "is_edible": true
+  },
+  {
+    "plant_id": 3,
+    "common_name": "Aloe Vera",
+    "scientific_name": "Aloe barbadensis",
+    "type": "Succulent",
+    "sunlight": "Indirect Sunlight",
+    "watering_frequency_days": 14,
+    "soil_type": "Sandy",
+    "origin": "Arabian Peninsula",
+    "is_edible": false
+  },
+  {
+    "plant_id": 4,
+    "common_name": "Lavender",
+    "scientific_name": "Lavandula",
+    "type": "Shrub",
+    "sunlight": "Full Sun",
+    "watering_frequency_days": 7,
+    "soil_type": "Sandy or Loamy",
+    "origin": "Mediterranean",
+    "is_edible": false
+  },
+  {
+    "plant_id": 5,
+    "common_name": "Mint",
+    "scientific_name": "Mentha",
+    "type": "Herb",
+    "sunlight": "Partial Shade",
+    "watering_frequency_days": 2,
+    "soil_type": "Moist, Well-drained",
+    "origin": "Europe",
+    "is_edible": true
+  }
+]
